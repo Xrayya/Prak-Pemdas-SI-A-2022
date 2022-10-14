@@ -60,17 +60,28 @@ public class Materials {
         // varInt = (int) varLong;
         // System.out.println(varInt);
 
-        varString = "10000";
-        varInt = Integer.parseInt(varString);
-        System.out.println(varInt);
+        // varString = "10000";
+        // varInt = Integer.parseInt(varString);
+        // System.out.println(varInt);
 
-        varString = "56.456";
-        varDouble = Double.parseDouble(varString);
-        System.out.println(varDouble);
+        // varString = "56.456";
+        // varDouble = Double.parseDouble(varString);
+        // System.out.println(varDouble);
 
-        // varString = "" + varInt;
-        // varString = String.valueOf(varInt);
-        varString = Integer.toString(varInt);
-        System.out.println(varString);
+        // // varString = "" + varInt;
+        // // varString = String.valueOf(varInt);
+        // varString = Integer.toString(varInt);
+        // System.out.println(varString);
+
+        // System.out.println("Nama\t\t: Bambang");
+        // System.out.println("Jenis kelamin\t: Laki-laki");
+        // System.out.println("Umur\t\t: 20 tahun");
+
+        // String nama = "Azhary";
+        // System.out.printf("Nama" + " saya" + " %s\n", nama);
+
+        // nama = "Fauzan";
+        // System.out.printf("Nama" + " saya" + " %s\n", nama);
+        System.out.println(Math.round(35.67));
     }
 }
